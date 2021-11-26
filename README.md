@@ -1,7 +1,7 @@
 # tech-blog
 
 ## Description
-This is a placeholder repository. This may become a full project one day, but probably not.
+This app is a fully functioning tech-oriented blog, in which a user may sign up, create blog posts, comment on their own or other blog posts, and view a collection of blog posts on their dashboard. Or at least it will be! Back end is nearly complete. Front end comes next.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,13 +14,13 @@ This is a placeholder repository. This may become a full project one day, but pr
 
 
 ## Installation
-
+Please clone this repository, install dependencies, create the DB in mysql, seed the database, and `npm run start`.
 
 ## Usage
-
+This app can be ran by visiting [https://krauz-tech-blog.herokuapp.com/](https://krauz-tech-blog.herokuapp.com/).
 
 ## License
-
+MIT
 
 ## Contributing
 Contributions are not open at this time.
